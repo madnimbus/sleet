@@ -1,6 +1,6 @@
 {
 	"name": "Sleet",
-	"version": "0.1",
+	"version": "1.0.0",
 	"description": "A simple markdown editor for developers and writers",
 	"main": "main.js",
 	"scripts": {
@@ -22,6 +22,9 @@
 		"url": "https://github.com/madnimbus/sleet/issues"
 	},
 	"homepage": "https://github.com/madnimbus/sleet#readme",
+	"dependencies": {
+		"simplemde": "^1.11.2"
+	},
 	"devDependencies": {
 		"electron": "^1.3.4"
 	}
